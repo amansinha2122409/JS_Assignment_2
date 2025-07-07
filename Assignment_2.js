@@ -167,7 +167,7 @@ obtuse
 */
 let A1=60
 let A2=100
-let A3ngle3=20
+let A3=20
 
 if((A1 || A2 || A3) >90)
 {
